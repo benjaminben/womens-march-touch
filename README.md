@@ -20,3 +20,5 @@ git checkout [your branch] //work from your personal branch, if you aren't alrea
 git pull origin [other branch] //pull changes from other teammate
 git merge [other branch] //merge changes from other teammate's branch into into yours
 ```
+
+🍻
